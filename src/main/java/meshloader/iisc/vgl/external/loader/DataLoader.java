@@ -50,7 +50,7 @@ public class DataLoader {
 		loaderMap = new HashMap<String, String>();
 		
 		try {
-			File file = new File("loaders.xml");
+			File file = new File("src/main/resources/loaders.xml");
 			DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
 			DocumentBuilder db = dbf.newDocumentBuilder();
 			Document doc = db.parse(file);

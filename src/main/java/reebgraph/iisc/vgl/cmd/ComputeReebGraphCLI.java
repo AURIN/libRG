@@ -41,7 +41,7 @@ public class ComputeReebGraphCLI {
 	public static void main(String[] args) {
 		try {
 			Properties p = new Properties();
-			p.load(new FileInputStream("input.properties"));
+			p.load(new FileInputStream("src/main/resources/input.properties"));
 			String loaderType = p.getProperty("loader");
 			String ip = p.getProperty("inputFile").trim();
 			String fn = p.getProperty("inputFunction").trim();
