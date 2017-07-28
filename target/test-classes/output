@@ -1,0 +1,15 @@
+7 7
+0 -1.0 MINIMA
+2 -1.0 SADDLE
+4 -1.0 MINIMA
+5 -1.0 SADDLE
+6 -1.0 SADDLE
+8 -1.0 MAXIMA
+9 -1.0 MAXIMA
+0 2 0 
+2 5 1 
+2 6 5 
+4 5 0 
+5 6 1 
+5 9 4 
+6 8 1 
