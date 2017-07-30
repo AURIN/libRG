@@ -1,4 +1,4 @@
-libRG - A library to compute Reeb graphs
+libRG - A library to compute Reeb graphs (The original version comes from [here](https://bitbucket.org/vgl_iisc/librgjava?_ga=2.168793697.1114209928.1501199073-1430101692.1500944757))
 ----------------------------------------
 This folder contains the following files / folders:
 1. the source file, which contains all the source code, test and configure files for the computation (Detailed information of the src directory is in the next section)
