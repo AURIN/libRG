@@ -139,6 +139,7 @@ public class CleanReebGraph implements Serializable {
 		a.v1 = vmap.get(v1);
 		a.v2 = vmap.get(v2);
 		a.comps.addAll(comps);
+		//a.fn is the difference between the two nodes of the edge
 		a.fn = an.get(a.v2).fn - an.get(a.v1).fn;
 
 		a.path = new ArrayList<Vertex>();

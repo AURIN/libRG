@@ -1,6 +1,6 @@
 # libRG - A library to compute Reeb graphs 
 
-(The original version comes from [here](https://bitbucket.org/vgl_iisc/librgjava?_ga=2.168793697.1114209928.1501199073-1430101692.1500944757))
+(The original version comes from [here](https://bitbucket.org/vgl_iisc/librgjava?_ga=2.168793697.1114209928.1501199073-1430101692.1500944757) and the publication/video information of the source code can be found [here](http://vgl.csa.iisc.ac.in/pub/paper.php?pid=009))
 
 Folder Structure
 ----------------------------------------
